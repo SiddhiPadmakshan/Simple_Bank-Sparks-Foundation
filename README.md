@@ -2,8 +2,6 @@
 Sparks Foundation Web & Mobile Development Internship Task 1: Basic Banking system website.
 This is a webapplication used to transfer money amongst multiple users.
 
-
-
 # Specification of the website
 
 Create a simple dynamic website.
@@ -17,3 +15,8 @@ Flow: Home Page > View all Customers > Select and View one Customer > Transfer M
 View all Customers.
 
 No Login Page. No User Creation. Only transfer of money between multiple users.
+
+# Technology used
+Express.js
+Javascript
+HTML/CSS/Bootstrap
